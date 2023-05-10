@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\lab_6\bin\Debug\netcoreapp3.1\lab_6.exe
+C:\Users\ASUS\source\repos\lab_6\bin\Debug\netcoreapp3.1\lab_6.deps.json
+C:\Users\ASUS\source\repos\lab_6\bin\Debug\netcoreapp3.1\lab_6.runtimeconfig.json
+C:\Users\ASUS\source\repos\lab_6\bin\Debug\netcoreapp3.1\lab_6.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\lab_6\bin\Debug\netcoreapp3.1\lab_6.dll
+C:\Users\ASUS\source\repos\lab_6\bin\Debug\netcoreapp3.1\lab_6.pdb
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.dll
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.pdb
+C:\Users\ASUS\source\repos\lab_6\obj\Debug\netcoreapp3.1\lab_6.genruntimeconfig.cache
